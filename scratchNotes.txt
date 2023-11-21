@@ -1,8 +1,14 @@
-notes
+Notes
+
+documents: https://docs.google.com/document/d/1NsMqWBd4nGQWDeITV5mYI2keX82NTGYqCk7kkLe8iq0/edit
 
 
-express
+Technology
+
+Express
 node ./server/server.js
+https://expressjs.com/en/guide/routing.html
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes (good view of MCV) 
 
 mongodb
 https://stackoverflow.com/questions/18452023/installing-and-running-mongodb-on-osx
@@ -10,3 +16,18 @@ https://www.mongodb.com/docs/mongodb-shell/
 
 mongoose
 https://mongoosejs.com/docs/
+
+Three ( is this what we want to use? uses WebGL)
+https://en.wikipedia.org/wiki/Three.js
+https://github.com/mrdoob/three.js
+> https://threejs.org/docs/index.html#manual/en/introduction/Installation
+
+Dockerized Node / mongodb / 
+https://dev.to/drsimplegraffiti/docker-with-mongodb-57g8
+https://hevodata.com/learn/docker-nodejs-mongodb/
+
+
+Design
+
+remote game server
+https://www.gammastack.com/remote-gaming-server-rgs-a-comprehensive-guide/
