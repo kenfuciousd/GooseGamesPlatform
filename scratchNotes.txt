@@ -1,0 +1,12 @@
+notes
+
+
+express
+node ./server/server.js
+
+mongodb
+https://stackoverflow.com/questions/18452023/installing-and-running-mongodb-on-osx
+https://www.mongodb.com/docs/mongodb-shell/
+
+mongoose
+https://mongoosejs.com/docs/
